@@ -1,0 +1,1063 @@
+# MTL written from LowPolyShoe_003.obj
+newmtl Adiml_046v1407Look_038_Vamp_032Overlay
+Kd 0.42426 0.749988 0.823529
+Ns 3.12666
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0863979 0.0886076 0.0876293
+map_Kd imported_images/naturebuck_clr.jpg
+map_Ks imported_images/naturebuck_spec.jpg
+newmtl Adiml_046v1407Look_038_Vamp_032Overlay_032Backer
+Kd 0.423529 0.74902 0.823529
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0196406 0.0196406 0.0196406
+map_Kd imported_images/solo-suede-wpn-v02_col.jpg
+map_Ks imported_images/solo suede wpn v02_spec.jpg
+newmtl Adiml_046v1407Look_038_Vamp_032Overlay_032Holes
+Kd 0.423529 0.74902 0.823529
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0227206 0.0227206 0.0227206
+map_Kd imported_images/solo-suede-wpn-v02_col.jpg
+map_Ks imported_images/solo suede wpn v02_spec.jpg
+newmtl Adiml_046v1407Look20_Torsion_032Bar_03292R
+Kd 1 0.976471 0.882353
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.02217 0.02217 0.02217
+map_Kd imported_images/white_1.jpg
+map_Ks imported_images/ad-092r.jpg
+newmtl Adiml_046v1407Look20_Torsion_032Bar_032Insert
+Kd 1 1 1
+Ns 11
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.00408037 0.00408037 0.00408037
+map_Kd imported_images/white_1.jpg
+map_Ks imported_images/default_texture.jpg
+newmtl Adiml_046v1407Look20_Torsion_032Bar_032LOGO_032SAND_032BLAST
+Kd 1 0.976471 0.882353
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.00818045 0.00818045 0.00818045
+map_Kd imported_images/white_1.jpg
+map_Ks imported_images/default_texture.jpg
+newmtl Adiml_046v1407Look20_Torsion_032Bar_032POLISHED
+Kd 1 0.976471 0.882353
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.00818045 0.00818045 0.00818045
+map_Kd imported_images/white_1.jpg
+map_Ks imported_images/default_texture.jpg
+newmtl Adiml_046v1407Look20_Torsion_032Bar_032SAND_032BLAST
+Kd 1 0.976471 0.882353
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.00818045 0.00818045 0.00818045
+map_Kd imported_images/white_1.jpg
+map_Ks imported_images/default_texture.jpg
+newmtl Adiml_046v1407LookD0_Lace
+Kd 0.686275 0.784314 0.670588
+Ns 78.8756
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0268001 0.00667735 0.000348518
+map_Kd imported_images/sik_mat3.jpg
+map_Ks imported_images/sik_spec.jpg
+newmtl Adiml_046v1407LookR5_Tongue
+Kd 0.686275 0.784314 0.670588
+Ns 78.8756
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0686275 0.0784314 0.0670588
+map_Kd imported_images/t_1003_rik_mesh(k_083)_color.jpg
+map_Ks imported_images/t_1003_rik_mesh(k_083)_spec.jpg
+newmtl Adiml_046v1407LookR5_Tongue_0321
+Kd 0.423529 0.74902 0.823529
+Ns 362.066
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0250698 0.00601472 0.000304188
+map_Kd imported_images/naturebuck_clr.jpg
+map_Ks imported_images/naturebuck_spec.jpg
+newmtl Adiml_046v1407LookR5_Tongue_0321_032Backer
+Kd 0.423529 0.74902 0.823529
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0358006 0.0358006 0.0358006
+map_Kd imported_images/naturebuck_clr.jpg
+map_Ks imported_images/naturebuck_spec.jpg
+newmtl Adiml_046v1407LookR5_Tongue_0322
+Kd 0.204905 0.234177 0.200222
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0 0 0
+map_Kd imported_images/white.jpg
+map_Ks imported_images/default_texture.jpg
+newmtl Adiml_046v1407Look_0_SH_3_032Stripes_032Lateral
+Kd 0.94902 0.945098 0.980392
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0156805 0.0156805 0.0156805
+map_Kd imported_images/sy-flo00005_k212_col.jpg
+map_Ks imported_images/sy-flo00005_k212_spec.jpg
+newmtl Adiml_046v1407Look_0_SH_3_032Stripes_032Medial
+Kd 0.94902 0.945098 0.980392
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0144005 0.0144005 0.0144005
+map_Kd imported_images/sy-flo00005_k212_col.jpg
+map_Ks imported_images/sy-flo00005_k212_spec.jpg
+newmtl Adiml_046v1407Look_0_SH_Eyestay_032Lateral
+Kd 0.686275 0.784314 0.670588
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0292006 0.0292006 0.0292006
+map_Kd imported_images/sy-flo00005_k212_col.jpg
+map_Ks imported_images/sy-flo00005_k212_spec.jpg
+newmtl Adiml_046v1407Look_0_SH_Eyestay_032Medial
+Kd 0.686275 0.784314 0.670588
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0292006 0.0292006 0.0292006
+map_Kd imported_images/sy-flo00005_k212_col.jpg
+map_Ks imported_images/sy-flo00005_k212_spec.jpg
+newmtl Adiml_046v1407Look_0_SH_Front_032Quarter_032Underlay_032Lateral
+Kd 0.501961 0.627451 0.490196
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0380006 0.0380006 0.0380006
+map_Kd imported_images/sy-flo00005_k212_col.jpg
+map_Ks imported_images/sy-flo00005_k212_spec.jpg
+newmtl Adiml_046v1407Look_0_SH_Front_032Quarter_032Underlay_032Medial
+Kd 0.501961 0.627451 0.490196
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0380006 0.0380006 0.0380006
+map_Kd imported_images/sy-flo00005_k212_col.jpg
+map_Ks imported_images/sy-flo00005_k212_spec.jpg
+newmtl Adiml_046v1407Look_0_SH_Heel_032Cap
+Kd 0.500006 0.500006 0.500006
+Ns 7.50779
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0164405 0.0164405 0.0164405
+map_Kd imported_images/sy-flo00005_k212_col.jpg
+map_Ks imported_images/sy-flo00005_k212_spec.jpg
+newmtl Adiml_046v1407Look_0_SH_Mudguard_032Lateral
+Kd 0.0196078 0.0431373 0.168627
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0239206 0.0239206 0.0239206
+map_Kd imported_images/sy-flo00005_k212_col.jpg
+map_Ks imported_images/sy-flo00005_k212_spec.jpg
+newmtl Adiml_046v1407Look_0_SH_Mudguard_032Medial
+Kd 0.0196078 0.0431373 0.168627
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0234806 0.0234806 0.0234806
+map_Kd imported_images/sy-flo00005_k212_col.jpg
+map_Ks imported_images/sy-flo00005_k212_spec.jpg
+newmtl Adiml_046v1407Look_0_SH_Quarter_032Lateral
+Kd 0.686275 0.784314 0.670588
+Ns 78.8756
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.021968 0.021968 0.021968
+map_Kd imported_images/sy-flo00005_k212_col.jpg
+map_Ks imported_images/sy-flo00005_k212_spec.jpg
+newmtl Adiml_046v1407Look_0_SH_Quarter_032Medial
+Kd 0.686275 0.784314 0.670588
+Ns 78.8756
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.021968 0.021968 0.021968
+map_Kd imported_images/sy-flo00005_k212_col.jpg
+map_Ks imported_images/sy-flo00005_k212_spec.jpg
+newmtl Adiml_046v1407Look_0_SH_Toe_032Cap
+Kd 0.501961 0.627451 0.490196
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0380006 0.0380006 0.0380006
+map_Kd imported_images/sy-flo00005_k212_col.jpg
+map_Ks imported_images/sy-flo00005_k212_spec.jpg
+newmtl Adiml_046v1407Look_0_SH_Toe_032Cap_0321
+Kd 0.500006 0.500006 0.500006
+Ns 7.50779
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0164405 0.0164405 0.0164405
+map_Kd imported_images/sy-flo00005_k212_col.jpg
+map_Ks imported_images/sy-flo00005_k212_spec.jpg
+newmtl Adiml_046v1407Look_0_SH_Tongue_0321
+Kd 0.423529 0.74902 0.823529
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0252406 0.0252406 0.0252406
+map_Kd imported_images/sy-flo00005_k212_col.jpg
+map_Ks imported_images/sy-flo00005_k212_spec.jpg
+newmtl Adiml_046v1407Look_0_SH_Tongue_032Laceloops
+Kd 0 0 0
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0380006 0.0380006 0.0380006
+map_Kd imported_images/sy-flo00005_k212_col.jpg
+map_Ks imported_images/sy-flo00005_k212_spec.jpg
+newmtl Adiml_046v1407Look_0_SH_Vamp_032Overlay
+Kd 0.423529 0.74902 0.823529
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0256806 0.0256806 0.0256806
+map_Kd imported_images/sy-flo00005_k212_col.jpg
+map_Ks imported_images/sy-flo00005_k212_spec.jpg
+newmtl Adiml_046v1407Look_0_S_3_032Stripes_032Lateral
+Kd 0.94902 0.945098 0.980392
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0822003 0.0822003 0.0822003
+map_Kd imported_images/stitching (standard)_col.jpg
+map_Ks imported_images/stitching (standard)_spec.jpg
+newmtl Adiml_046v1407Look_0_S_3_032Stripes_032Medial
+Kd 0.94902 0.945098 0.980392
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0802803 0.0802803 0.0802803
+map_Kd imported_images/stitching (standard)_col.jpg
+map_Ks imported_images/stitching (standard)_spec.jpg
+newmtl Adiml_046v1407Look_0_S_Eyestay_032Lateral
+Kd 0.686275 0.784314 0.670588
+Ns 107.755
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0825679 0.0825679 0.0825679
+map_Kd imported_images/stitching (standard)_col.jpg
+map_Ks imported_images/stitching (standard)_spec.jpg
+newmtl Adiml_046v1407Look_0_S_Eyestay_032Medial
+Kd 0.686275 0.784314 0.670588
+Ns 25.2268
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0945605 0.0945605 0.0945605
+map_Kd imported_images/stitching (standard)_col.jpg
+map_Ks imported_images/stitching (standard)_spec.jpg
+newmtl Adiml_046v1407Look_0_S_Front_032Quarter_032Underlay_032Lateral
+Kd 0.501961 0.627451 0.490196
+Ns 14.0121
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.086414 0.086414 0.086414
+map_Kd imported_images/stitching (standard)_col.jpg
+map_Ks imported_images/stitching (standard)_spec.jpg
+newmtl Adiml_046v1407Look_0_S_Front_032Quarter_032Underlay_032Medial
+Kd 0.501961 0.627451 0.490196
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0987 0.0987 0.0987
+map_Kd imported_images/stitching (standard)_col.jpg
+map_Ks imported_images/stitching (standard)_spec.jpg
+newmtl Adiml_046v1407Look_0_S_Heel_032Cap
+Kd 0.423529 0.74902 0.823529
+Ns 162.041
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0872602 0.0872602 0.0872602
+map_Kd imported_images/stitching (standard)_col.jpg
+map_Ks imported_images/stitching (standard)_spec.jpg
+newmtl Adiml_046v1407Look_0_S_Mudguard_032Lateral
+Kd 0.0184339 0.0418403 0.167722
+Ns 107.755
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0825679 0.0825679 0.0825679
+map_Kd imported_images/stitching (standard)_col.jpg
+map_Ks imported_images/STITCH~3.JPG
+newmtl Adiml_046v1407Look_0_S_Mudguard_032Medial
+Kd 0.0196078 0.0431373 0.168627
+Ns 25.2268
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0945605 0.0945605 0.0945605
+map_Kd imported_images/stitching (standard)_col.jpg
+map_Ks imported_images/stitching (standard)_spec.jpg
+newmtl Adiml_046v1407Look_0_S_Quarter_032Lateral
+Kd 0.686275 0.784314 0.670588
+Ns 78.8756
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0727216 0.0191034 0.000928659
+map_Kd imported_images/stitching (standard)_col.jpg
+map_Ks imported_images/stitching (standard)_spec.jpg
+newmtl Adiml_046v1407Look_0_S_Quarter_032Medial
+Kd 0.686275 0.784314 0.670588
+Ns 25.2268
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0945605 0.0945605 0.0945605
+map_Kd imported_images/stitching (standard)_col.jpg
+map_Ks imported_images/stitching (standard)_spec.jpg
+newmtl Adiml_046v1407Look_0_S_Toe_032Cap
+Kd 0.501961 0.627451 0.490196
+Ns 14.0121
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.086414 0.086414 0.086414
+map_Kd imported_images/stitching (standard)_col.jpg
+map_Ks imported_images/stitching (standard)_spec.jpg
+newmtl Adiml_046v1407Look_0_S_Toe_032Cap_0321
+Kd 0.500006 0.500006 0.500006
+Ns 162.041
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0872602 0.0872602 0.0872602
+map_Kd imported_images/stitching (standard)_col.jpg
+map_Ks imported_images/stitching (standard)_spec.jpg
+newmtl Adiml_046v1407Look_0_S_Tongue_0321
+Kd 0.423529 0.74902 0.823529
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0885602 0.0885602 0.0885602
+map_Kd imported_images/stitching (standard)_col.jpg
+map_Ks imported_images/stitching (standard)_spec.jpg
+newmtl Adiml_046v1407Look_0_S_Tongue_032Laceloops
+Kd 0.043141 0.0509843 0.121574
+Ns 162.041
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0648851 0.0648851 0.0648851
+map_Kd imported_images/stitching (standard)_col.jpg
+map_Ks imported_images/stitching (standard)_spec.jpg
+newmtl Adiml_046v1407Look_0_S_Vamp_032Overlay
+Kd 0.423529 0.74902 0.823529
+Ns 107.755
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0825679 0.0825679 0.0825679
+map_Kd imported_images/stitching (standard)_col.jpg
+map_Ks imported_images/stitching (standard)_spec.jpg
+newmtl Adiml_046v1407Look_1416_3_032Stripes_032Lateral
+Kd 0.943038 0.920233 0.832092
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0264006 0.0264006 0.0264006
+map_Kd imported_images/05037217_col.jpg
+map_Ks imported_images/stripes_spec.jpg
+newmtl Adiml_046v1407Look_1416_3_032Stripes_032Lateral_032Backer
+Kd 0.203922 0.235294 0.2
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.00440037 0.00440037 0.00440037
+map_Kd imported_images/05037217_col.jpg
+map_Ks imported_images/05037217_spec.jpg
+newmtl Adiml_046v1407Look_1416_Accent_032color
+Kd 0.948709 0.945095 0.981013
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.00720043 0.00720043 0.00720043
+map_Kd imported_images/05037217_col.jpg
+map_Ks imported_images/stripes_spec.jpg
+newmtl Adiml_046v1407Look_1417_3_032Stripes_032Medial
+Kd 0.941176 0.921569 0.831373
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0285006 0.0285006 0.0285006
+map_Kd imported_images/05037217_col.jpg
+map_Ks imported_images/stripes_spec.jpg
+newmtl Adiml_046v1407Look_1417_3_032Stripes_032Medial_032Backer
+Kd 0.94902 0.945098 0.980392
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.00440037 0.00440037 0.00440037
+map_Kd imported_images/05037217_col.jpg
+map_Ks imported_images/05037217_spec.jpg
+newmtl Adiml_046v1407Look_1417_Accent_032color
+Kd 0.94902 0.945098 0.980392
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.00720043 0.00720043 0.00720043
+map_Kd imported_images/05037217_col.jpg
+map_Ks imported_images/stripes_spec.jpg
+newmtl Adiml_046v1407Look_1700_Mudguard_032Lateral
+Kd 0.0196078 0.0431373 0.168627
+Ns 62.7952
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.00400349 0.000918593 5.32518e-05
+map_Kd imported_images/naturebuck_clr.jpg
+map_Ks imported_images/naturebuck_spec.jpg
+newmtl Adiml_046v1407Look_1700_Mudguard_032Lateral_032Backer
+Kd 0.0196078 0.0431373 0.168627
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0498006 0.0498006 0.0498006
+map_Kd imported_images/natural-buckley-epm-3_col.jpg
+map_Ks imported_images/natural buckley epm_spec.jpg
+newmtl Adiml_046v1407Look_1730_Mudguard_032Medial
+Kd 0.0196078 0.0431373 0.168627
+Ns 62.7952
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.00400349 0.000918593 5.32518e-05
+map_Kd imported_images/naturebuck_clr.jpg
+map_Ks imported_images/naturebuck_spec.jpg
+newmtl Adiml_046v1407Look_1730_Mudguard_032Medial_032Backer
+Kd 0.0196078 0.0431373 0.168627
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0196406 0.0196406 0.0196406
+map_Kd imported_images/solo-suede-wpn-v02_col.jpg
+map_Ks imported_images/solo suede wpn v02_spec.jpg
+newmtl Adiml_046v1407Look_2580_Eyestay_032Lateral
+Kd 0.686275 0.784314 0.670588
+Ns 62.7952
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0324777 0.00880505 0.00051205
+map_Kd imported_images/naturebuck_clr.jpg
+map_Ks imported_images/naturebuck_spec.jpg
+newmtl Adiml_046v1407Look_2580_Eyestay_032Lateral_032Backer
+Kd 0.686275 0.784314 0.670588
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0498006 0.0498006 0.0498006
+map_Kd imported_images/natural-buckley-epm-3_col.jpg
+map_Ks imported_images/natural buckley epm_spec.jpg
+newmtl Adiml_046v1407Look_2580_Eyestay_032Lateral_032holes
+Kd 0.686275 0.784314 0.670588
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0519006 0.0519006 0.0519006
+map_Kd imported_images/natural-buckley-epm-3_col.jpg
+map_Ks imported_images/natural buckley epm_spec.jpg
+newmtl Adiml_046v1407Look_2640_Eyestay_032Medial
+Kd 0.686275 0.784314 0.670588
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0297397 0.0297397 0.0297397
+map_Kd imported_images/naturebuck_clr.jpg
+map_Ks imported_images/naturebuck_spec.jpg
+newmtl Adiml_046v1407Look_2640_Eyestay_032Medial_032Backer
+Kd 0.686275 0.784314 0.670588
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0498006 0.0498006 0.0498006
+map_Kd imported_images/natural-buckley-epm-3_col.jpg
+map_Ks imported_images/natural buckley epm_spec.jpg
+newmtl Adiml_046v1407Look_2640_Eyestay_032Medial_032Holes
+Kd 0.686275 0.784314 0.670588
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0519006 0.0519006 0.0519006
+map_Kd imported_images/natural-buckley-epm-3_col.jpg
+map_Ks imported_images/natural buckley epm_spec.jpg
+newmtl Adiml_046v1407Look_3985_Collar
+Kd 0.0397293 0.0399784 0.0411392
+Ns 78.8756
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.032626 0.00825379 0.000422118
+map_Kd imported_images/t_1003_rik_mesh(k_083)_color.jpg
+map_Ks imported_images/t_1003_rik_mesh(k_083)_spec.jpg
+newmtl Adiml_046v1407Look_3985_Collar_03201
+Kd 0.0273756 0.0281734 0.028481
+Ns 78.8756
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.032626 0.00825379 0.000422118
+map_Kd imported_images/t_1003_rik_mesh(k_083)_color.jpg
+map_Ks imported_images/t_1003_rik_mesh(k_083)_spec.jpg
+newmtl Adiml_046v1407Look_3985_Collar_03201_1
+Kd 0.0402981 0.039457 0.0411392
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0 0 0
+map_Kd imported_images/white.jpg
+map_Ks imported_images/default_texture.jpg
+newmtl Adiml_046v1407Look_3985_Collar_0321
+Kd 0.034616 0.0344219 0.0348101
+Ns 1024
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.00379747 0.00379747 0.00379747
+map_Kd imported_images/white.jpg
+map_Ks imported_images/default_texture.jpg
+newmtl Adiml_046v1407Look_4060_Collar_032Lining
+Kd 1 0.991321 0.955236
+Ns 78.8756
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0177185 0.00421994 0.000233788
+map_Kd imported_images/lj-b-1_col.jpg
+map_Ks imported_images/lj b 1_spec.jpg
+newmtl Adiml_046v1407Look_420_Vamp
+Kd 0.686275 0.784314 0.670588
+Ns 512
+d 1
+illum 2
+Ka 0 0 0
+Ks 0 0 0
+map_Kd imported_images/t_1003_rik_mesh(k_083)_color.jpg
+map_Ks imported_images/t_1003_rik_mesh(k_083)_spec.jpg
+newmtl Adiml_046v1407Look_420_Vamp_03201
+Kd 0.686275 0.784314 0.670588
+Ns 78.8756
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.032626 0.00825379 0.000422118
+map_Kd imported_images/t_1003_rik_mesh(k_083)_color.jpg
+map_Ks imported_images/t_1003_rik_mesh(k_083)_spec.jpg
+newmtl Adiml_046v1407Look_420_Vamp_03201_1
+Kd 0.203922 0.235294 0.2
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0 0 0
+map_Kd imported_images/white.jpg
+map_Ks imported_images/default_texture.jpg
+newmtl Adiml_046v1407Look_4320_Heel_032Cap
+Kd 0.423529 0.74902 0.823529
+Ns 2.00567
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0477812 0.0477812 0.0477812
+map_Kd imported_images/solo-suede-wpn-v02_col.jpg
+map_Ks imported_images/solo suede wpn v02_spec.jpg
+newmtl Adiml_046v1407Look_4320_Heel_032Cap_032Backer
+Kd 0.423529 0.74902 0.823529
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0368006 0.0368006 0.0368006
+map_Kd imported_images/solo-suede-wpn-v02_col.jpg
+map_Ks imported_images/solo suede wpn v02_spec.jpg
+newmtl Adiml_046v1407Look_45_Toe_032Cap
+Kd 0.584314 0.694118 0.65098
+Ns 2.00567
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0477812 0.0477812 0.0477812
+map_Kd imported_images/solo-suede-wpn-v02_col.jpg
+map_Ks imported_images/solo suede wpn v02_spec.jpg
+newmtl Adiml_046v1407Look_45_Toe_032Cap_03201
+Kd 0.501961 0.627451 0.490196
+Ns 2.00567
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0174406 0.0174406 0.0174406
+map_Kd imported_images/solo-suede-wpn-v02_col.jpg
+map_Ks imported_images/solo suede wpn v02_spec.jpg
+newmtl Adiml_046v1407Look_45_Toe_032Cap_032Backer
+Kd 0.584314 0.694118 0.65098
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0368006 0.0368006 0.0368006
+map_Kd imported_images/solo-suede-wpn-v02_col.jpg
+map_Ks imported_images/solo suede wpn v02_spec.jpg
+newmtl Adiml_046v1407Look_45_Toe_032Cap_032Backer_03201
+Kd 0.500006 0.500006 0.500006
+Ns 20.0838
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0343006 0.0343006 0.0343006
+map_Kd imported_images/naturebuck_clr.jpg
+map_Ks imported_images/naturebuck_spec.jpg
+newmtl Adiml_046v1407Look_500_Vamp_032Lining
+Kd 0.0784358 0.0784358 0.0784358
+Ns 2.51928
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0359206 0.0359206 0.0359206
+map_Kd imported_images/lj b 1047 ad_col.jpg
+map_Ks imported_images/lj b 1047 ad_spec.jpg
+newmtl Adiml_046v1407Look_500_Vamp_032Lining_032Backer
+Kd 0.0784358 0.0784358 0.0784358
+Ns 2.51928
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0359206 0.0359206 0.0359206
+map_Kd imported_images/lj b 1047 ad_col.jpg
+map_Ks imported_images/lj b 1047 ad_spec.jpg
+newmtl Adiml_046v1407Look_5135_Sockliner_032Cover
+Kd 0.043141 0.0509843 0.121574
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0510006 0.0510006 0.0510006
+map_Kd imported_images/lj-b-1_col.jpg
+map_Ks imported_images/lj b 1_spec.jpg
+newmtl Adiml_046v1407Look_5135_Sockliner_032Cover_032_0401_041
+Kd 0.973685 0.966708 0.955586
+Ns 50
+d 1
+illum 2
+Ka 0 0 0
+Ks 0 0 0
+map_Kd imported_images/adidas_r_trefoil_the-brand-with-the-3-stripes_print.jpg
+map_Ks imported_images/default_texture.jpg
+newmtl Adiml_046v1407Look_7545_Insole
+Kd 1 1 1
+Ns 2.00567
+d 1
+illum 2
+Ka 0 0 0
+Ks 6e-05 6e-05 6e-05
+map_Kd imported_images/white_245.jpg
+map_Ks imported_images/default_texture.jpg
+newmtl Adiml_046v1407Look_7710_Midsole_032Color_0321_032AD_165C
+Kd 0.929412 0.92549 0.905882
+Ns 2.64315
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0194087 0.0122433 0.00900736
+map_Kd imported_images/white_245.jpg
+map_Ks imported_images/ad-384-2_spec.jpg
+newmtl Adiml_046v1407Look_7710_Midsole_032Color_0321_032AD_172C
+Kd 0.929413 0.92622 0.90729
+Ns 3.69863
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0201562 0.00996395 0.00757513
+map_Kd imported_images/white_245.jpg
+map_Ks imported_images/ad-384-2_spec.jpg
+newmtl Adiml_046v1407Look_7710_Midsole_032Color_0321_032AD_385R
+Kd 0.929412 0.92549 0.905882
+Ns 3.69863
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0218981 0.00930448 0.00635282
+map_Kd imported_images/white_245.jpg
+map_Ks imported_images/ad-384-2_spec.jpg
+newmtl Adiml_046v1407Look_7710_Midsole_032Color_0322_032AD_165C_1
+Kd 0.929412 0.92549 0.905882
+Ns 2.00567
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0182796 0.0125368 0.00942201
+map_Kd imported_images/white_245.jpg
+map_Ks imported_images/default_texture.jpg
+newmtl Adiml_046v1407Look_7710_Midsole_032Color_0322_032AD_172C
+Kd 0.929412 0.92549 0.905882
+Ns 3.69863
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0135461 0.0061675 0.00443913
+map_Kd imported_images/white_245.jpg
+map_Ks imported_images/ad-384-2_spec.jpg
+newmtl Adiml_046v1407Look_7710_Midsole_032Color_0322_032AD_385R_1
+Kd 0.929412 0.92549 0.905882
+Ns 15.4239
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0221144 0.0152289 0.0114944
+map_Kd imported_images/white_245.jpg
+map_Ks imported_images/ad-384-2_spec.jpg
+newmtl Adiml_046v1407Look_7710_Midsole_032Insole_032Base
+Kd 0.584314 0.694118 0.65098
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.00282 0.0019797 0.00152394
+map_Kd imported_images/white_245.jpg
+map_Ks imported_images/default_texture.jpg
+newmtl Adiml_046v1407Look_7930_Outsole_032Logo_032SAND_032BLAST
+Kd 0.584314 0.694118 0.65098
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.00308 0.00308 0.00308
+map_Kd imported_images/white_245.jpg
+map_Ks imported_images/default_texture.jpg
+newmtl Adiml_046v1407Look_7930_Outsole_Color_0321_032AD_059R
+Kd 0.584314 0.694118 0.65098
+Ns 187.138
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.011544 0.011544 0.011544
+map_Kd imported_images/white_245.jpg
+map_Ks imported_images/ad-574r_spec.jpg
+newmtl Adiml_046v1407Look_7930_Outsole_Color_0321_032AD_170C
+Kd 0.584314 0.694118 0.65098
+Ns 57.0473
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0104865 0.0104865 0.0104865
+map_Kd imported_images/white_245.jpg
+map_Ks imported_images/ad-170c_spec.jpg
+newmtl Adiml_046v1407Look_7930_Outsole_Color_0321_032AD_70R
+Kd 0.584314 0.694118 0.65098
+Ns 187.138
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0167038 0.0167038 0.0167038
+map_Kd imported_images/white_245.jpg
+map_Ks imported_images/ad-70r_spec_1.jpg
+newmtl Adiml_046v1407Look_7930_Outsole_Color_0321_032SAND_032BLAST
+Kd 0.584314 0.694118 0.65098
+Ns 187.138
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0019096 0.0019096 0.0019096
+map_Kd imported_images/white_245.jpg
+map_Ks imported_images/default_texture.jpg
+newmtl Adiml_046v1407Look_7930_Outsole_Color_0322_032AD_059R
+Kd 0.584314 0.694118 0.65098
+Ns 71.6558
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.00691873 0.00691873 0.00691873
+map_Kd imported_images/white_245.jpg
+map_Ks imported_images/ad-574r_spec.jpg
+newmtl Adiml_046v1407Look_7930_Outsole_Color_0322_032AD_170C
+Kd 0.584314 0.694118 0.65098
+Ns 213.544
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0252326 0.0252326 0.0252326
+map_Kd imported_images/white_245.jpg
+map_Ks imported_images/ad-170c_spec.jpg
+newmtl Adiml_046v1407Look_7930_Outsole_Color_0322_032AD_385R
+Kd 0.056962 0.0538141 0.0563181
+Ns 213.544
+d 1
+illum 2
+Ka 0 0 0
+Ks 0 0 0
+map_Kd imported_images/white_245.jpg
+map_Ks imported_images/ad-384-2_spec.jpg
+newmtl Adiml_046v1407Look_7930_Outsole_Color_0322_032AD_70R
+Kd 0.584314 0.694118 0.65098
+Ns 68.2977
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.00773978 0.00773978 0.00773978
+map_Kd imported_images/white_245.jpg
+map_Ks imported_images/ad-70r_spec.jpg
+newmtl Adiml_046v1407Look_7930_Outsole_Color_0322_032SAND_032BLAST
+Kd 0 0 0
+Ns 213.544
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0004896 0.0004896 0.0004896
+map_Kd imported_images/white_245.jpg
+map_Ks imported_images/default_texture.jpg
+newmtl Adiml_046v1407Look_7930_Outsole_Color_0322_032SAND_032BLAST_0321
+Kd 0.584314 0.694118 0.65098
+Ns 213.544
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0022176 0.0022176 0.0022176
+map_Kd imported_images/white_245.jpg
+map_Ks imported_images/default_texture.jpg
+newmtl Adiml_046v1407Look_7930_Outsole_Color_0323_032AD_059R
+Kd 0.584314 0.694118 0.65098
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.00968626 0.00968626 0.00968626
+map_Kd imported_images/white_245.jpg
+map_Ks imported_images/ad-574r_spec.jpg
+newmtl Adiml_046v1407Look_7930_Outsole_Color_0323_032AD_385R
+Kd 0.584314 0.694118 0.65098
+Ns 213.544
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0117851 0.0117851 0.0117851
+map_Kd imported_images/white_245.jpg
+map_Ks imported_images/ad-384-2_spec.jpg
+newmtl Adiml_046v1407Look_7930_Outsole_Color_0323_032AD_70R
+Kd 0.584314 0.694118 0.65098
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.00911968 0.00911968 0.00911968
+map_Kd imported_images/white_245.jpg
+map_Ks imported_images/ad-70r_spec.jpg
+newmtl Adiml_046v1407Look_7930_Outsole_Color_0323_032SAND_032BLAST
+Kd 0.584314 0.694118 0.65098
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.00308 0.00308 0.00308
+map_Kd imported_images/white_245.jpg
+map_Ks imported_images/default_texture.jpg
+newmtl Adiml_046v1407Look_7930_Outsole_Color_0324_032SAND_032BLAST
+Kd 0.584314 0.694118 0.65098
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.00308 0.00308 0.00308
+map_Kd imported_images/white_245.jpg
+map_Ks imported_images/default_texture.jpg
+newmtl Adiml_046v1407Look_7930_Outsole_Color_032dam
+Kd 0.584314 0.694118 0.65098
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.00308 0.00308 0.00308
+map_Kd imported_images/white_245.jpg
+map_Ks imported_images/default_texture.jpg
+newmtl Adiml_046v1407Look_7930_Outsole_Insole_032Base_0321
+Kd 0.0784358 0.0784358 0.0784358
+Ns 2.00567
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.00644042 0.00644042 0.00644042
+map_Kd imported_images/white_245.jpg
+map_Ks imported_images/default_texture.jpg
+newmtl Adiml_046v1407Look_7930_Outsole_Insole_032Base_0322
+Kd 1 1 1
+Ns 2.00567
+d 1
+illum 2
+Ka 0 0 0
+Ks 6e-05 6e-05 6e-05
+map_Kd imported_images/white_245.jpg
+map_Ks imported_images/default_texture.jpg
+newmtl Adiml_046v1407Look_895_Quarter_032Lateral
+Kd 0.686275 0.784314 0.670588
+Ns 78.8756
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.032626 0.00825379 0.000422118
+map_Kd imported_images/t_1003_rik_mesh(k_083)_color.jpg
+map_Ks imported_images/t_1003_rik_mesh(k_083)_spec.jpg
+newmtl Adiml_046v1407Look_895_Quarter_032Lateral_0321
+Kd 0.203922 0.235294 0.2
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0 0 0
+map_Kd imported_images/white.jpg
+map_Ks imported_images/default_texture.jpg
+newmtl Adiml_046v1407Look_900_Quarter_032Medial
+Kd 0.686275 0.784314 0.670588
+Ns 78.8756
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.032626 0.00825379 0.000422118
+map_Kd imported_images/t_1003_rik_mesh(k_083)_color.jpg
+map_Ks imported_images/t_1003_rik_mesh(k_083)_spec.jpg
+newmtl Adiml_046v1407Look_900_Quarter_032Medial_0321
+Kd 0.203922 0.235294 0.2
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0 0 0
+map_Kd imported_images/white.jpg
+map_Ks imported_images/default_texture.jpg
+newmtl Adiml_046v1407Look_910_Front_032Quarter_032Underlay_032Lateral
+Kd 0.50324 0.626582 0.48898
+Ns 2.00567
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0461185 0.0461185 0.0461185
+map_Kd imported_images/solo-suede-wpn-v02_col.jpg
+map_Ks imported_images/solo suede wpn v02_spec.jpg
+newmtl Adiml_046v1407Look_910_Front_032Quarter_032Underlay_032Lateral_032Backer
+Kd 0.501961 0.627451 0.490196
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0368006 0.0368006 0.0368006
+map_Kd imported_images/solo-suede-wpn-v02_col.jpg
+map_Ks imported_images/solo suede wpn v02_spec.jpg
+newmtl Adiml_046v1407Look_910_Front_032Quarter_032Underlay_032Medial
+Kd 0.501961 0.627451 0.490196
+Ns 2.00567
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0477812 0.0477812 0.0477812
+map_Kd imported_images/solo-suede-wpn-v02_col.jpg
+map_Ks imported_images/solo suede wpn v02_spec.jpg
+newmtl Adiml_046v1407Look_910_Front_032Quarter_032Underlay_032Medial_032Backer
+Kd 0.501961 0.627451 0.490196
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0368006 0.0368006 0.0368006
+map_Kd imported_images/solo-suede-wpn-v02_col.jpg
+map_Ks imported_images/solo suede wpn v02_spec.jpg
+newmtl Adiml_046v1407Looke5_Tongue_032Laceloops
+Kd 0.043141 0.0509843 0.121574
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0475006 0.0475006 0.0475006
+map_Kd imported_images/naturebuck_clr.jpg
+map_Ks imported_images/naturebuck_spec.jpg
+newmtl Adiml_046v1407Looke5_Tongue_032Laceloops_032_0401_041
+Kd 0.0196078 0.0431373 0.168627
+Ns 72
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0665189 0.0665189 0.0665189
+map_Kd imported_images/trefoil_adidas_r_stiched_color2.png
+map_Ks imported_images/trefoil_adidas_r_stiched_color2.png
+newmtl Adiml_046v1407Looke5_Tongue_032Laceloops_032backer
+Kd 0.043141 0.0509843 0.121574
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0475006 0.0475006 0.0475006
+map_Kd imported_images/naturebuck_clr.jpg
+map_Ks imported_images/naturebuck_spec.jpg
+newmtl Adiml_046v1407Lookf5_Tongue_032Lining
+Kd 0.901729 0.871926 0.905063
+Ns 19
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0510006 0.0510006 0.0510006
+map_Kd imported_images/lj-b-1_col.jpg
+map_Ks imported_images/lj b 1_spec.jpg
